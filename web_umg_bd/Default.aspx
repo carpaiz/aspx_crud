@@ -20,9 +20,13 @@
     <asp:Label ID="lbl_mensaje" runat="server" CssClass="alert-info"></asp:Label>
     <asp:GridView ID="grid_empleados" runat="server" AutoGenerateColumns="False" CssClass="table-condensed" DataKeyNames="id,id_puesto" OnRowDeleting="grid_empleados_RowDeleting" OnSelectedIndexChanged="grid_empleados_SelectedIndexChanged">
         <Columns>
-            <asp:CommandField ButtonType="Button" SelectText="Ver" ShowSelectButton="True" ControlStyle-CssClass="btn btn-info" >
-<ControlStyle CssClass="btn btn-info"></ControlStyle>
-            </asp:CommandField>
+            <asp:TemplateField ShowHeader="False">
+                <ItemTemplate>
+                    <asp:Button ID="Button2" runat="server" CausesValidation="False" CommandName="Select" Text="Ver" />
+                </ItemTemplate>
+                <ControlStyle CssClass="btn btn-info"  />
+                
+            </asp:TemplateField>
             <asp:TemplateField ShowHeader="False">
                 <ItemTemplate>
                     <asp:Button ID="Button1" runat="server" CausesValidation="False" CommandName="Delete" Text="Eliminar" OnClientClick="javascript:if(!confirm('¿Desea Eliminar?'))return false" />

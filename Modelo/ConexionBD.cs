@@ -19,9 +19,12 @@ namespace web_umg_bd
                 conectar = new MySqlConnection();
                 conectar.ConnectionString = sConn;
                 conectar.Open();
+               // System.Diagnostics.Debug.WriteLine("Conexion Exitosa");
+               
             } 
             catch(Exception ex){
                 System.Diagnostics.Debug.WriteLine(ex.Message);
+               // Console.WriteLine(ex.StackTrace);
                 
             }
 

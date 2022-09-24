@@ -138,7 +138,6 @@ C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\WebGrease.dll
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Google.Protobuf.dll
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\MySql.Data.xml
-C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\MySql.Web.xml
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\System.Web.Optimization.xml
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Newtonsoft.Json.xml
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Antlr3.Runtime.pdb
@@ -151,3 +150,13 @@ C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\obj\Debug\web_umg_bd.csproj.CopyComplete
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\obj\Debug\web_umg_bd.dll
 C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\obj\Debug\web_umg_bd.pdb
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Modelo.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\MySql.Data.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\ZstdNet.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\BouncyCastle.Crypto.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Ubiety.Dns.Core.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\System.Buffers.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\K4os.Compression.LZ4.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\K4os.Hash.xxHash.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\web_umg_bd\bin\Modelo.pdb

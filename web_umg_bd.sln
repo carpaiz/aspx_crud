@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29411.108
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_umg_bd", "web_umg_bd\web_umg_bd.csproj", "{C7802CB6-EF63-48AE-B05C-62EC068B3B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C7802CB6-EF63-48AE-B05C-62EC068B3B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7802CB6-EF63-48AE-B05C-62EC068B3B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7802CB6-EF63-48AE-B05C-62EC068B3B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22DB08F-D336-4E17-A5A0-8EE411C8BFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
