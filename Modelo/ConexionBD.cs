@@ -8,16 +8,13 @@ namespace web_umg_bd
 {
     public class ConexionBD
     {
-        private string contenido = "server=localhost; database=db_empresa; user=usr_empresa; password=Empres@123";
+        private string cadena = "server=localhost; database=db_empresa; user=usr_empresa; password=Empres@123";
         public MySqlConnection conectar = new MySqlConnection();
-        public MySqlDataAdapter adaptador = new MySqlDataAdapter();
+        
 
         public void AbrirConexion(){
             try {
-                string sConn;
-                sConn = contenido;
-                conectar = new MySqlConnection();
-                conectar.ConnectionString = sConn;
+                conectar.ConnectionString = cadena;
                 conectar.Open();
                // System.Diagnostics.Debug.WriteLine("Conexion Exitosa");
                
